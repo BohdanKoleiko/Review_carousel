@@ -1,0 +1,21 @@
+.title {
+   h1 {
+      margin-top: 40px;
+      padding-bottom: 16px;
+      font-size: 40px;
+      letter-spacing: 6px;
+
+      position: relative;
+
+      &::before {
+         content: "";
+         position: absolute;
+         bottom: 0;
+         left: 50%;
+         transform: translateX(-50%);
+         height: 4px;
+         width: 100px;
+         background-color: rgb(83 174 212);
+      }
+   }
+}
