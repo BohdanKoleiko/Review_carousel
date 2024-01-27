@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6746cd86.css",
-    "main.js": "/static/js/main.29302309.js",
-    "static/media/2.jpg": "/static/media/2.af72d15eb52330ecdde5.jpg",
-    "static/media/3.jpg": "/static/media/3.3b30024ed1558be93394.jpg",
-    "static/media/1.jpg": "/static/media/1.0ab3751f048f07bc5619.jpg",
-    "index.html": "/index.html",
-    "main.6746cd86.css.map": "/static/css/main.6746cd86.css.map",
-    "main.29302309.js.map": "/static/js/main.29302309.js.map"
+    "main.css": "/Review_carousel/static/css/main.f247b86d.css",
+    "main.js": "/Review_carousel/static/js/main.1d7ba119.js",
+    "static/media/4.jpg": "/Review_carousel/static/media/4.af72d15eb52330ecdde5.jpg",
+    "static/media/3.jpg": "/Review_carousel/static/media/3.3b30024ed1558be93394.jpg",
+    "static/media/1.jpg": "/Review_carousel/static/media/1.0ab3751f048f07bc5619.jpg",
+    "static/media/2.jpg": "/Review_carousel/static/media/2.67d1a639ee5423885864.jpg",
+    "static/media/5.jpg": "/Review_carousel/static/media/5.d7e85b296513572b8340.jpg",
+    "index.html": "/Review_carousel/index.html",
+    "main.f247b86d.css.map": "/Review_carousel/static/css/main.f247b86d.css.map",
+    "main.1d7ba119.js.map": "/Review_carousel/static/js/main.1d7ba119.js.map"
   },
   "entrypoints": [
-    "static/css/main.6746cd86.css",
-    "static/js/main.29302309.js"
+    "static/css/main.f247b86d.css",
+    "static/js/main.1d7ba119.js"
   ]
 }
